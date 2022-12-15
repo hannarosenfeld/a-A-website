@@ -1,0 +1,28 @@
+body {
+    background: rgb(207, 212, 216);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+nav {
+
+}
+a {
+    text-decoration: none;
+    color: rgb(176, 90, 50);
+}
+main {
+    width: 640px;
+    margin: 0 auto;
+}
+img {
+    width: 600px;
+}
+li {
+    list-style: none;
+}
+.images{
+    margin: 1em;
+}
+.images img {
+    width: 9em;
+    height: 6em;
+}
